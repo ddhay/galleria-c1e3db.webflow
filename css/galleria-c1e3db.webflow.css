@@ -1,0 +1,914 @@
+img {
+  display: inline-block;
+  max-width: 100%;
+}
+
+.section {
+  height: 1000px;
+}
+
+.container__paintings {
+  display: flex;
+  height: 1606px;
+  max-width: 1440px;
+  grid-column-gap: 40px;
+  grid-row-gap: 40px;
+}
+
+.galleria__column_3 {
+  display: flex;
+  flex-direction: column;
+  grid-column-gap: 44px;
+  grid-row-gap: 44px;
+}
+
+.image__galleria {
+  width: 310px;
+  height: 525px;
+}
+
+.image__galleria._10 {
+  height: 500px;
+}
+
+.image__galleria._12 {
+  height: 250px;
+}
+
+.image__galleria._05 {
+  height: 379px;
+}
+
+.image__galleria._09 {
+  height: 285px;
+}
+
+.image__galleria._07 {
+  height: 260px;
+}
+
+.image__galleria._13 {
+  height: 250px;
+}
+
+.image__galleria._14 {
+  height: 430px;
+}
+
+.image__galleria._03 {
+  height: 420px;
+}
+
+.image__galleria._08 {
+  height: 430px;
+}
+
+.image__galleria._01 {
+  height: 250px;
+  font-family: 'Libre Baskerville', sans-serif;
+  color: #fff;
+  font-size: 13px;
+  line-height: 16px;
+}
+
+.image__galleria._04 {
+  height: 260px;
+}
+
+.image__galleria._02 {
+  height: 340px;
+}
+
+.image__galleria._16 {
+  height: 330px;
+}
+
+.image__galleria._06 {
+  height: 280px;
+}
+
+.galleria__column_2 {
+  display: flex;
+  flex-direction: column;
+  grid-column-gap: 47px;
+  grid-row-gap: 47px;
+}
+
+.galleria__column_4 {
+  display: flex;
+  flex-direction: column;
+  grid-column-gap: 39px;
+  grid-row-gap: 39px;
+}
+
+.galleria__column_1 {
+  display: flex;
+  flex-direction: column;
+  grid-column-gap: 40px;
+  grid-row-gap: 40px;
+}
+
+.image-20 {
+  width: 179px;
+  height: 48px;
+  max-width: none;
+  margin-bottom: 40px;
+  padding-left: 0px;
+}
+
+.image-21 {
+  width: 310px;
+}
+
+.header__galleria {
+  display: flex;
+  width: 1360px;
+  height: 48px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 40px;
+  padding-right: 0px;
+  justify-content: space-between;
+}
+
+.heading {
+  width: 172px;
+  height: 15px;
+}
+
+.heading-2 {
+  padding-right: 0px;
+  font-family: 'Libre Baskerville', sans-serif;
+  color: #7d7d7d;
+  font-size: 12px;
+  line-height: 14.88px;
+  letter-spacing: 2.57px;
+}
+
+.header___border {
+  width: 1360px;
+  margin-right: auto;
+  margin-bottom: 40px;
+  margin-left: auto;
+  border-top: 1px solid #000;
+  color: hsla(0, 0%, 59.2%, 0.25);
+}
+
+.image__title {
+  position: static;
+  left: 0px;
+  top: -129px;
+  width: 246px;
+  font-family: 'Libre Baskerville', sans-serif;
+  color: #fff;
+}
+
+.image__title.van {
+  width: 246px;
+}
+
+.image__title.rousseau {
+  width: 251px;
+}
+
+.image__title.wave {
+  width: 250px;
+}
+
+.image__title.self {
+  width: 169px;
+}
+
+.image__painter {
+  position: static;
+  top: 330.097px;
+  width: 246px;
+  margin-top: 7px;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+
+.image__caption {
+  position: relative;
+  top: -138px;
+  width: 310px;
+  padding-left: 32px;
+}
+
+.image__caption.storm {
+  top: -138px;
+  width: 256px;
+  height: 83px;
+  padding-bottom: 32px;
+}
+
+.image__caption.vangogh {
+  width: 199px;
+}
+
+.container__header {
+  max-width: 1440px;
+  margin-bottom: -93px;
+  padding-bottom: 0px;
+}
+
+.container__header.home {
+  margin-bottom: -14px;
+}
+
+.slider {
+  width: auto;
+  height: 1107px;
+  max-width: 1440px;
+  background-color: #f2f2f2;
+}
+
+.container____slide {
+  height: 984px;
+  max-width: none;
+  padding-top: 100px;
+  padding-right: 40px;
+  padding-left: 40px;
+}
+
+.image__slide {
+  width: 475px;
+  height: 560px;
+  max-width: none;
+}
+
+.image__slide._08 {
+  max-width: 475px;
+}
+
+.image__slide__title {
+  width: 363px;
+  height: 192px;
+  max-width: 380px;
+  margin-top: 0px;
+  margin-bottom: 24px;
+  font-family: 'Libre Baskerville', sans-serif;
+  font-size: 56px;
+  line-height: 64px;
+}
+
+.image__slide__title._02 {
+  width: 308px;
+  margin-bottom: 24px;
+}
+
+.image__slide__title._03 {
+  width: 380px;
+  height: 64px;
+  margin-bottom: 24px;
+  margin-left: -1px;
+}
+
+.image__slide__title._04 {
+  height: 128px;
+  max-height: none;
+  max-width: 380px;
+}
+
+.image__slide__title._05 {
+  width: 380px;
+}
+
+.image__slide__title._06 {
+  width: 380px;
+  height: 192px;
+}
+
+.image__slide__title._07 {
+  width: 380px;
+  height: 128px;
+}
+
+.image__slide__title._09 {
+  width: 380px;
+  height: 128px;
+}
+
+.image__slide__title._10 {
+  height: 128px;
+}
+
+.image__slide__title._11 {
+  width: 380px;
+  height: 128px;
+}
+
+.image__slide__title._12 {
+  height: 128px;
+}
+
+.image__slide__title._13 {
+  height: 128px;
+}
+
+.image__slide__title._14 {
+  height: 128px;
+}
+
+.image__slide__title._15 {
+  height: 64px;
+}
+
+.image__slide__title._01 {
+  width: 380px;
+  height: 128px;
+}
+
+.image__date {
+  position: relative;
+  top: 6px;
+  right: 40px;
+  height: 150px;
+  max-height: none;
+  max-width: 429px;
+  margin-right: 0px;
+  padding-right: 0px;
+  background-color: #f3f3f3;
+  font-family: 'Libre Baskerville', sans-serif;
+  color: rgba(51, 51, 51, 0.1);
+  font-size: 200px;
+  line-height: 150px;
+  font-weight: 700;
+}
+
+.image__date._06 {
+  width: 474px;
+}
+
+.image__date._11 {
+  max-width: 477px;
+}
+
+.image__date._13 {
+  width: 481px;
+  max-width: 481px;
+}
+
+.image__date._14 {
+  width: 538px;
+  max-width: 485px;
+}
+
+.div-block {
+  display: flex;
+  height: 656px;
+  max-width: 1360px;
+  padding-right: 40px;
+  background-color: #f2f2f2;
+}
+
+.image__slide_content {
+  display: flex;
+  height: 624px;
+  max-width: 885px;
+}
+
+.image__slide_artist {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: 'Libre Baskerville', sans-serif;
+  color: #7d7d7d;
+  font-size: 15px;
+  line-height: 18.6px;
+}
+
+.image__slide_artist._03 {
+  height: 19px;
+  max-width: 246px;
+}
+
+.image__slide_artist._05 {
+  margin-top: 0px;
+}
+
+.image__slide_artist._06 {
+  margin-top: -14px;
+}
+
+.image__slide_artist._09 {
+  width: 249px;
+  height: 19px;
+}
+
+.image__slide_artist._11 {
+  height: 19px;
+  max-width: 246px;
+}
+
+.image__slide_artist._13 {
+  height: 19px;
+  max-width: 246px;
+}
+
+.painting__title_artist {
+  position: relative;
+  left: -63px;
+  height: 174px;
+  max-width: 445px;
+  padding-left: 65px;
+  background-color: #f2f2f2;
+}
+
+.painting__title_artist._01 {
+  height: 238px;
+}
+
+.painting__title_artist._03 {
+  height: 174px;
+  max-width: 445px;
+}
+
+.painting__title_artist._04 {
+  height: 238px;
+}
+
+.painting__title_artist._06 {
+  height: 238px;
+  max-width: 445px;
+}
+
+.painting__title_artist._09 {
+  height: 238px;
+  max-width: 445px;
+}
+
+.painting__title_artist._02 {
+  height: 302px;
+}
+
+.painting__title_artist._05 {
+  height: 302px;
+}
+
+.painting__title_artist._07 {
+  height: 238px;
+}
+
+.painting__title_artist._08 {
+  height: 302px;
+}
+
+.painting__title_artist._10 {
+  height: 238px;
+}
+
+.painting__title_artist._11 {
+  height: 238px;
+}
+
+.painting__title_artist._12 {
+  height: 238px;
+}
+
+.painting__title_artist._13 {
+  height: 238px;
+}
+
+.painting__title_artist._14 {
+  height: 238px;
+}
+
+.paragraph {
+  font-family: 'Libre Baskerville', sans-serif;
+}
+
+.image__description {
+  position: relative;
+  left: -40px;
+  top: -29px;
+  height: 364px;
+  max-width: 350px;
+  margin-bottom: 0px;
+  font-family: 'Libre Baskerville', sans-serif;
+  color: #7d7d7d;
+  line-height: 28px;
+  font-weight: 700;
+}
+
+.slide-1 {
+  background-color: #f3f3f3;
+}
+
+.image__artist {
+  position: relative;
+  left: -879px;
+  top: 497px;
+  width: 128px;
+  height: 128px;
+  max-width: 127.98611450195312px;
+}
+
+.image__artist._02 {
+  left: -791px;
+}
+
+.image__artist._03 {
+  left: -849px;
+}
+
+.image__artist._04 {
+  left: -829px;
+}
+
+.image__artist._05 {
+  left: -849px;
+}
+
+.image__artist._06 {
+  left: -849px;
+}
+
+.image__artist._08 {
+  left: -830px;
+}
+
+.image__artist._09 {
+  left: -849px;
+}
+
+.image__artist._11 {
+  left: -893px;
+}
+
+.image__artist._12 {
+  left: -830px;
+}
+
+.image__artist._14 {
+  left: -886px;
+}
+
+.image__artist._15 {
+  left: -831px;
+}
+
+.image__artist._01 {
+  left: -849px;
+}
+
+.image__artist._07 {
+  left: -849px;
+}
+
+.image__artist._10 {
+  left: -830px;
+}
+
+.image__facts {
+  width: 524px;
+  height: 624px;
+  max-width: 488px;
+  margin-right: 2px;
+}
+
+.image__facts._09 {
+  width: 484px;
+  max-width: 484px;
+}
+
+.link {
+  position: relative;
+  left: -40px;
+  top: 43px;
+  margin-right: 0px;
+  font-family: 'Libre Baskerville', sans-serif;
+  color: #7d7d7d;
+  font-size: 9px;
+  line-height: 11.16px;
+  font-weight: 700;
+  letter-spacing: 1.93px;
+}
+
+.icon {
+  top: -1px;
+  margin-top: 0px;
+  color: #333;
+}
+
+.icon-2 {
+  left: -38px;
+  top: 857px;
+  margin-top: 0px;
+  color: #333;
+}
+
+.slide-2 {
+  margin-top: 0px;
+  background-color: #f2f2f2;
+}
+
+.slider__footer {
+  height: 96px;
+  max-width: 1440px;
+  background-color: #f2f2f2;
+  font-family: 'Libre Baskerville', sans-serif;
+  font-size: 13px;
+  line-height: 16.12px;
+}
+
+.heading-3 {
+  height: 22px;
+  max-width: 329px;
+  font-family: 'Libre Baskerville', sans-serif;
+  color: #000;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.text-block {
+  font-family: 'Libre Baskerville', sans-serif;
+  color: #000;
+  font-size: 13px;
+  line-height: 16.12px;
+}
+
+.div-block-2 {
+  max-width: 360px;
+  padding-top: 2px;
+  padding-bottom: 24px;
+  padding-left: 0px;
+}
+
+.slide__footer {
+  height: 96px;
+  max-width: 1440px;
+  margin-top: 40px;
+  background-color: #f2f2f2;
+}
+
+.slide__footer._01 {
+  height: 0px;
+  margin-top: 0px;
+}
+
+.slide-nav {
+  top: 982.01px;
+  width: 80px;
+  height: 28px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.slide-nav._15 {
+  width: 514px;
+  margin-top: -117px;
+  margin-bottom: 91px;
+}
+
+.slide-title {
+  margin-top: 0px;
+  font-family: 'Libre Baskerville', sans-serif;
+  font-size: 18px;
+  line-height: 22.32px;
+}
+
+.slide-title._05 {
+  height: 22px;
+  max-width: 359px;
+}
+
+.slide-title._06 {
+  max-width: 359px;
+}
+
+.slide-title._10 {
+  height: 22px;
+  max-width: 359px;
+}
+
+.slide-title._15 {
+  height: 22px;
+  max-width: 359px;
+}
+
+.slide-artist {
+  font-family: 'Libre Baskerville', sans-serif;
+  font-size: 13px;
+  line-height: 16.12px;
+}
+
+.slide-artist._09 {
+  height: 16px;
+  max-width: 246px;
+}
+
+.slide-artist._15 {
+  height: 16px;
+  max-width: 246px;
+}
+
+.slide__title__artist {
+  max-width: 359px;
+}
+
+.slide__title__artist._10 {
+  height: 47px;
+}
+
+.left-arrow {
+  left: auto;
+  top: 78%;
+  right: 5%;
+  bottom: 0%;
+}
+
+.right-arrow {
+  top: 3px;
+}
+
+.body {
+  background-color: #f2f2f2;
+}
+
+.link-2 {
+  color: #7d7d7d;
+  text-decoration: none;
+}
+
+.slide-3 {
+  background-color: #f2f2f2;
+}
+
+.image-22 {
+  display: none;
+}
+
+.image-23 {
+  position: relative;
+  z-index: 4;
+}
+
+.image-24 {
+  display: none;
+}
+
+.image-25 {
+  display: none;
+}
+
+.image-26 {
+  display: none;
+}
+
+.image-27 {
+  display: none;
+}
+
+.image-28 {
+  display: none;
+}
+
+.image-29 {
+  display: none;
+}
+
+.image-30 {
+  display: none;
+}
+
+.image-31 {
+  display: none;
+}
+
+.image-32 {
+  display: none;
+}
+
+.lightbox-15 {
+  margin-left: 16px;
+}
+
+.image-33 {
+  display: none;
+}
+
+.image-34 {
+  display: none;
+}
+
+.image-35 {
+  display: none;
+}
+
+.image-36 {
+  display: none;
+}
+
+.image__text__view {
+  position: relative;
+  left: 32px;
+  top: -62px;
+  height: 12px;
+  max-width: 97px;
+  background-color: #000;
+  font-family: 'Libre Baskerville', sans-serif;
+  color: #fff;
+  font-size: 10px;
+  line-height: 12.4px;
+  font-weight: 700;
+  letter-spacing: 2.14px;
+}
+
+.image-37 {
+  display: none;
+}
+
+.icon-view {
+  position: relative;
+  left: 16px;
+  top: -47px;
+  display: inline-block;
+  margin-left: 0px;
+  background-color: #000;
+  color: #fff;
+}
+
+.div-block-3 {
+  position: relative;
+  top: 3px;
+  height: 40px;
+  max-width: 152px;
+}
+
+.link-3 {
+  color: #fff;
+  text-decoration: none;
+}
+
+.link-4 {
+  color: #fff;
+  text-decoration: none;
+}
+
+.link-5 {
+  color: #fff;
+  text-decoration: none;
+}
+
+.link-6 {
+  color: #fff;
+  text-decoration: none;
+}
+
+.link-7 {
+  color: #fff;
+  text-decoration: none;
+}
+
+.link-8 {
+  color: #fff;
+  text-decoration: none;
+}
+
+.link-9 {
+  color: #fff;
+  text-decoration: none;
+}
+
+.link-10 {
+  color: #fff;
+  text-decoration: none;
+}
+
+.link-11 {
+  color: #fff;
+  text-decoration: none;
+}
+
+.link-12 {
+  color: #fff;
+  text-decoration: none;
+}
+
+.link-13 {
+  color: #fff;
+  text-decoration: none;
+}
+
+.link-14 {
+  text-decoration: none;
+}
+
+.link-14.w--current {
+  color: #fff;
+}
+
+.link-15 {
+  color: #fff;
+  text-decoration: none;
+}
+
+.link-16 {
+  color: #fff;
+  text-decoration: none;
+}
+
+.link-17 {
+  color: #fff;
+  text-decoration: none;
+}
+
